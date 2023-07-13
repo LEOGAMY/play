@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Walk_spr","order":2,"path":"sprites/Walk_spr/Walk_spr.yy",},
+    {"name":"obj_lark","order":1,"path":"objects/obj_lark/obj_lark.yy",},
+    {"name":"aja","order":1,"path":"sprites/aja/aja.yy",},
+  ],
+}
